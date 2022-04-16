@@ -5,8 +5,7 @@ I'm a software engineer and more than 20 years since 2001. Even I'm still a engi
     Linux: user space process, kernel module, interface driver  
     Network: TCP/IP, l2, l3, l4, l7  
     Firewall: flow slowpath/fastpath, session managemnt, packet forwarding, TCP proxy, HA  
-    WAF: http(s) proxy, ssl proxy, CA, web server load balance, web server health check, http/http2, quic,   
-         web threats and protection, web cache  
+    WAF: http(s) proxy, ssl proxy, CA, web server load balance/health check, http/http2, quic, web threats/protection, web cache  
     DDOS: flood based attacks, feature based attacks, web attacks, etc.  
     C language: glibc, common APIs, macro, system call, makefile  
     Event models: epoll, libevent, libev, libuv  
