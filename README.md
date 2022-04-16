@@ -24,7 +24,7 @@ I'm a software engineer and more than 20 years since 2001. Even I'm still a engi
     Big data: spark, hadoop  
     Open source: busybox, snort, keepalived, openswan  
     Restful API and CGI  
-    Debug: GDB, Asan  
+    Debug: GDB, Asan  
     Interview: leetcode, system design  
     Others: somethings about an engineer  
       
