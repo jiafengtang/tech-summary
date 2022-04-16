@@ -26,5 +26,7 @@ The technical points will include but no limitation the following list:
     Open source: busybox, snort, keepalived, openswan  
     Restful API and CGI  
     Interview: leetcode, system design  
-    Others: somethings about an engineerApr 16, 2022  
+    Others: somethings about an engineer  
+      
+Apr 16, 2022  
 END.  
