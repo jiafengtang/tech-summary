@@ -1,8 +1,7 @@
 # tech-summary
 My technical summary
-I'm a software engineer and more than 20 years since 2001. Even I'm still a engineer, I want to write my technical experience.  
-This techincal summary will include linux kernel, C language, network security, web, etc.  
-The technical points will include but no limitation the following list:  
+I'm a software engineer and more than 20 years since 2001. Even I'm still a engineer, I want to write my technical experience. This techincal summary will include linux kernel, C language, network security, web, etc. The technical points will include but no limitation the following list:  
+  
     Linux: user space process, kernel module, interface driver  
     Network: TCP/IP, l2, l3, l4, l7  
     Firewall: flow slowpath/fastpath, session managemnt, packet forwarding, TCP proxy, HA  
