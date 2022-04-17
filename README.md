@@ -8,7 +8,7 @@ I'm a software engineer and more than 20 years since 2001. Even I'm still a engi
     WAF: http(s) proxy, ssl proxy, CA, server load balance/health check, http/http2/quic, web threats/protection, web cache  
     DDOS: flood based attacks, feature based attacks, web attacks, etc.  
     C language: glibc, common APIs, macro, system call, makefile  
-    Event models: epoll, libevent, libev, libuv  
+    Event models: epoll, libevent, libev, libuv, kqueue  
     DPDK and EBPF/XDP  
     CDN and LB: CDN, load balance, smart route, web cache, storage  
     Database: redis, memcached, mysql, mongodb, etc.  
